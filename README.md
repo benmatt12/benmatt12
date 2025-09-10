@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ben Matthews
-# 👀 I'm interested in Cybersecurity and IT
-# 🔭 I'm currently working on systems and databases for Cardiovascular and Cancer research
-# 🌱 I'm currently learning systems and cybersecurity
-# 📫 How to reach me: benmatt2496@gmail.com
+- 👋 Hi, I'm Ben Matthews
+- 👀 I'm interested in Cybersecurity and IT
+- 🔭 I'm currently working on systems and databases for Cardiovascular and Cancer research
+- 🌱 I'm currently learning systems and cybersecurity
+- 📫 How to reach me: benmatt2496@gmail.com
 
 <!--
 **benmatt12/benmatt12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
